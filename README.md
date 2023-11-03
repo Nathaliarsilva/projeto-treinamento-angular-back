@@ -11,6 +11,7 @@ Projeto CRUD de produtos (Angular + SpringBoot).
 
 [GITHUB BACK - JAVA](https://github.com/Nathaliarsilva/projeto-treinamento-angular-back)
 
+[VÍDEO DO PROJETO FUNCIONANDO](https://www.loom.com/share/27929475d83142b181eb09e0e82888c0?sid=8eed6860-f702-4ca1-bdea-6ba3ea44c905)
 
 ## Documentação da API
 
